@@ -8,7 +8,9 @@
 <body>
     
     <?php
-        echo "Hola Mundo";
+        echo "Hello Mundo Desde el I.E.S. Poligono Sur";
+        define ('ALTURA', 180);
+        echo ALTURA;
     ?>
 
 </body>
