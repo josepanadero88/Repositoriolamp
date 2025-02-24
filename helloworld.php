@@ -8,9 +8,22 @@
 <body>
     
     <?php
-        echo "Hello Mundo Desde el I.E.S. Poligono Sur";
+        /*echo "Hello Mundo Desde el I.E.S. Poligono Sur";
         define ('ALTURA', 180);
-        echo ALTURA;
+        echo ALTURA;*/
+
+        $minombre = "Panadero";
+        var_dump($minombre);
+        echo "<br>";
+        $silla = 7;
+        var_dump($silla);
+        echo "<br>";
+        $mesa = 2;
+        var_dump($mesa);
+        echo "<br>";
+        $teclado = "true";
+        var_dump($teclado);
+
     ?>
 
 </body>
